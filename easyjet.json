@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head id="head"><title>
+	Information: Today departures - Gen&#232;ve A&#233;roport
+</title><meta charset="UTF-8" /> 
+<meta name="keywords" content="Today departures, aéroport, airport, geneva, cointrin, timetables,  flights, arrivals, departures, parkings, car parks, check-in, checkin, travel, holidays, offers, planes,  jobs, gva, shopping, international " /> 
+
+<!-- OneTrust Cookies Consent Notice start for www.gva.ch -->
+<script src="https://cdn.cookielaw.org/consent/2b952e65-5ef0-4eac-a754-bca1d7a5b861/otSDKStub.js" type="text/javascript" charset="UTF-8"
+data-domain-script="2b952e65-5ef0-4eac-a754-bca1d7a5b861" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for www.gva.ch -->
+
+
+<meta name="apple-itunes-app" content="app-id=502471072"/>
+<link rel="manifest" href="https://www.gva.ch/getmedia/b8bbb422-ade2-4399-9a15-8b1d4b60da99/manifest"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSTBXR9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/jquery.js"></script>
+<script defer src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/knockout.js"></script>
+<script defer src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/FlickityJS.js"></script>
+<script defer src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/ValidateForm.js"></script>
+
+
+
+<!-- Facebook Tag Manager -->
+<meta name="facebook-domain-verification" content="0r6hyem0sp4ko8ixgc8ihhmudppaas" />
+
+<!-- Monsido Tracking Code for my site -->
+<script type="text/javascript">
+    window._monsido = window._monsido || {
+        token: "16fEgqO1ihsUuSwLydaThg",
+        heatmap: {
+            enabled: true,
+        },
+    };
+</script>
+<script defer type="text/javascript" async src="https://app-script.monsido.com/v2/monsido-script.js"></script><!-- Open graph meta tags -->
+<meta property="og:title" content="Today departures" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.gva.ch/en/Site/Passagers/Vols/Informations/Departs" />
+<meta property="og:image" content="/Images/logo-gva.aspx" /> 
+<link href="/App_Themes/Gva/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/App_Themes/Gva/favicon.ico" type="image/x-icon" rel="icon"/>
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Temp : fontawesome , to replace with gva custom font -->
+<link href="/CMSPages/GetResource.ashx?stylesheetfile=/Gva/font/fontAwesome/all.css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?stylesheetfile=/Gva/css/app.css" type="text/css" rel="stylesheet" />
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=100ans" type="text/css" rel="stylesheet"><script>NS_CSM_td=843701442;NS_CSM_pd=275116664;NS_CSM_u="/clm10";NS_CSM_col="AAAAAAWgxJ/TVIY0m6h5IOT/4zsDG33RCLC24Oav4bVRffQ/lnrqT20ckRL1em5BgjnjMuMupn2l4B1o692nRjD9D5qi";</script><script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_col;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script></head>
+<body class="LTR Mozilla ENGB ContentBody" >
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe title="Google tag manager iframe" src="https://www.googletagmanager.com/ns.html?id=GTM-NSTBXR9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="/en/Site/Passagers/Vols/Informations/Departs" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="LA6eDI4+GhJ9j+zZ+2l8NF3I/qt+FlsgeAs7UMl8+qiR9LeuybAMCEpPalvMVLtKnf2/WJsvb/9CmuX2ivNAZLv5r4ssYZvGGbI0AdQsRzY3wpZGgROWUJ8vJA1evWgw0z84nJ5wUF5yMPmYLMBhdw==" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="LrMwoeBInufLXzqtzvzthE2Fo2O8j6JdU0QS18Hv+TYgX7wYp+JtNyvpKqwLJV1EjnKHiYCSXCAe5/oOgUQp7aMmKvuLop3y1VkcYSuACoC62c5IXgG+75d+q8s44YDBP2ND3SlXlbCHdV/Agltm79S6hDF1WbuHFza76xTmTQnZ4JQ7yyKjH16ArWZDD33arr18DKFCF5t5QGGgWQSy/GuNSmvo6fNUdrBlnTKe9MIXoreuHmxcsgOBGyye1UNYJeglWwF1mP2KlClqROuKX6PnZwcLX51xFu65XDXLTQW11hCoHVm9nNi3ZIDGv7+6BLZUJfYz749QAC+CkBnUj47/+aPvaiIvSd39U2TG28i9cu7zcrViUAHuVN5CEgIdVareeGd3ge2G2IIrxIGAU2SaR2Nz8tvjcUhMW+k8R9dJdW7HEb5zCeK9b6G/B+ReQmjR+56ZcS57vrtj0yC8bqaTuj8rYfNSE1U1pBVGSiiDCuoB4tL0lqWNFZjO1LEDiNtbkdE39Ykrt1xNiM9uh/NOpiZwEgt0bSw5lIRabM7eLPBeOABxi360XPUu0PHmnl1FtSUgk26uSsBEq0CYBt86eQRvdNWhjbnX5uT5zpGUM5wY0CEzSFGUlshEkoKyJuw+ZeQZ3H/JqU0Ct+66WuxXW0A9fy9GzxyTno0FEPjPymG4rfaOU5hGkNJEJLPslcbmXI0tRu0b4ZIuYH9YcLtLlvvvz6RQznOw8XYgzp78gV6VbtfZ6Q5iTqPiPTDQtpMZRQG5kkBCH3WukSGODrVeYZDhrzlqaF8zVU1GJivJ8OzdmkC0YLaEBLZzA5asRGxuxfR8EvlmmmyZRNwArXSZOG4kDGU0E0M+i2NJVNyHIGHZp+13NCwP6EOQ9k6kgSIWRhxxdPBamFHWbtbPT3/Snwu8gf19CX0Y2/syIn543McLCiXVLq/8UA/tK9mDS+xhUk1KWBuuHGdKXBs0P6gi1LjPqQcOwQAvymCF0v7TNhTrCqAe9DtRS2pBmO3OgFHkche7hslWaRsP8jyt1th0BuU7nyqvWt9HlznreEaJcIu40fvF6Lx8vtjpsrW6i+BoYDjqxAdexsL3XLAFYye7lMsY4KcStE5efraaq3K9ApKEdFIW6mITJ23tsdtK0ekVa1D9Z1Vd6BRJbndXkxO5fqPEdMPpWFLplraeMkROeCJwq/DqGXsJMAp8tze37YR9jx+E+Or8KuDy+cbX2/2PpF0jNegih3bo0R0UWDs6mGNzJb65GcC6sDDLRzNYKzJ0HnshJCzKsOTfUMo3LJhCOxTHqmqpE9ghCcdWrO82mLmjwDzi5LS7IukVG/SAs54qoMFTJbWfoFTIuOkdAn9PZpM4MEhr/lGC4T8faz5EXu+G/cP6fgOydK9iFbZMIdrVCLVRQQQh/RsTzkjK/t/zCOQ7hSt3STxnLzS93hlTsFdAJjJM8g743BUtw9i1A0cS+qsdNjw/eYylJz48r8JsSPFk+jK/D73p/POBq1dGOlJIkSyK9dsqypPXkGRxzycIYcC1hzxkWdxPzcLltSoLPV+EBs0k0QWDyaycNu8wZe63rF8OX0El/E2cjp9qT/R7a9JwaZ0kdojjVkFgw9AWqUBf7og+KNULakbR1mUNzCRTufJQ4VcqNkeYLs660pWeqdxIcqMDsv2W6ztzqNUmeZviS/nRR+NOFYPKPvWyP7d1v6hfW6MhXdzDL2scQumUZTgaFuDVVOpYuRAr5i0izOZKdgXzkyKTeDlRVeRplvwFQ+2S98L+tmKy+evM0EVDxvE4jdOPr2bciiH6udfeYtqYp08bkvVNUiUY2L0DJKQ5WwKNRc4qCSEc/+pwGf7PkF7NQ2fYVGYpJW2flsxpk0nd+1UTBzO0MVxjIu23l+x4rz8pdZuu6VYXB4C20LrmF+y5/ON79szRasTeLAK5ZkKE4NBcWldMU+NKdq6Dl8Q/82I0XlD2xR6bI3Gtoksml67dQE/byxV9otKdiY+ilN3wJfybB6G2RNVyGkLSv+gIfncztgeMWw+qSVTALpP8og+8NOEF2kuhtRwN7OfCxn35E50QIqJfG8coluaugjo2/zaCcxT+nfeMhKq9VQfQQB5VKh1orpCoCqk+ej0JG1QKFjB581/6k+NV/E2tyHRxI2NFwtIwLY56iQVxZfATjUh4O3zIcPco55zzxb3jT71HgQ0v7gwXHSPLhVJ2hg+cTWKX+mutqHFLotE0JOPdIZ3MNcHdYccqOMGl5JhwHL2/Duq+jVvV8wbSuAsl7h9gXvURF66nlK+Vo6+t7kYDfWjS6r8aijCdF533YYjvR1au13HPZQS5joHRwKeidiOC/QP98SnsHMvUQhcUJ4Y7zd97rOkq92nhguWMActTByK2yJ4JQ5nlBmfKX1SqSowEqYmHBy3nuNp19ZFO/Co1QHdXzqyzbv03OEvF7gxTR4K7wsEuXocspUp0Bxz/LTXHE1JX2uvg5hmUdM6TaHUA/Tgrydy9PiHEcKpxHt5R1OXi9ODY8RNt03huILG7Zl0CElKMrIURfH6VoMQrKoPbl9CO+BznJd9m7fJyIazCADtRI6sGACywYKTib5ecMq0a69yazhuHfwgT5NMaWygFAQtFKRCFlH/mweli0K5F21BHxMysdQ6PRpTAJ5xXjiB6ctdngENiRFsSLaNSwDOCJ0xMAkh6SIROMWRDUx+qHPWt4YYdVTKhSh++moX/RWrYWmQgyOFdqDynHzU6I49vEK/omyfrYQQnON2I3FQXfRb4HB3Ltmz56NE/OY59dLFyMDW2xE1ffGAbSAy9Cg+KFnO0kdSh8AGDt1CWba7fCeSffM1sDcVfwODOFiJILRBGio8bx9zWgT+AF+VafZMmwIAzc8pYDqIJz5TRNesd08Hj/7th55UKXv9jwJ8XVX2H5r/DKhdYlp7YYqizzayRUXBqIWCQIQQg0UNodyFov0GwL+BjncbtZ4vUx37QBe4/Xj606+AT747ptx/msdjvYVPzNFLxLlrNr2Nl9xljFfBKR/WFoquc0R7r2Tq/ATRPpFpqfH/v8L4R1a7q8gIYxuLCLJsG1fDlrJeQqTsVVKzyoNEaIqujZCikRRTcbAskqhqrvyjS0yF4P8w2vA5QhxpZpww41ibcjAdqEJCI2eaZPiCesHFQbCxny3GdsbHTg30dtx1deCgizrN7zKaTWmf13y4NUPCoK9JsK66jraqW8na6kGJkg9EBnW2FwioYNR2fCqxQ9wW7fcTpEe7F3PE0ThghY//vbMoE6ev5KqovbiCpQrfyZ/KIUj/eKu7nwytK3V/5zbj6+d6F2RsvUG85tk0h+GCQSTe51hluKom12MXiA4LNAnSuKu4uOkACZXN2fxKLl/mh1jdIM2i0DIXR8YcriBqc/nodYdcjHu49tLJBBb+lkMy4viEYNxAr+mSNZBtOijJcoXkIK12PQx/SOID5gRcya4UvA9ktXd+8dfilnWVyXM27ykWQpvRwgB3V1KWh4B/gyuoRD0X5AydOfIEHHUDIqKByoXY9bhh+FcHMOqD4MLZzwYpcAfDI5T9KEnq3HnAXz5MVTyG7s75nb7WoJi5dADTngMR2A4siphjzpjWqCUeNTmTicvRfHyNxVJt/IRUjE1NUzbeVS2EYVhzt4H07Tj61AMxcGqfMKnrVRq5KK55mY3dfTYxjWBjaaqw5yIP9CEUulh5xVpMsX3nzYUTyxgmTIJAPZYC4x1Gl07lm+OEAC3Zx6i4rMaJM2XDY+dImA80TpYqL0v+sZK7fSgRxOg7HXBE1LHKseU5SQ4MuTF7dfUuAPOONPTPUw61w3zEcoc/QaNR4lrb8bifBtbgIpbSHzGK03CcfyuyFro6+4FNcuXtfVR3vED+jqq1FpigSdTUoY5xpYyUzgA2Lbrnc5YaWQxIf0Nj9ah1QrgSJFqMHkasQ0lyhliBeVkWIaGA3pN14z1HqkxGIBsQZ0jiDNupfu/vrg9Jsi/OrLS/iQRzqDttm12ET+9Gbf03OMudsssDwabqQjQdMQ4Jox/BC7LrSi2OjEBePfNC7EH2cj49aKHhqYsdsk+ZmthLg6jFrW2Yn6AQX2v7OFRGLrAcIWGFoqPtHHw1aPNYr93XPZTu5dK17y0DU0WXjXvtWxqdU/Lkd17YbhVU49UpW37SnSTHX+tm6XOEpf0sIVUMJSWEKxe81W4A1Bjb6LxMwlG5fhSdvSyggEDt6U2FXxdd9PAL7CCd9Ilk3Wp876vAyu+1+65K3Ugz0kHe7n2X0DGHOXOQ7g720TfKVsAn4oIc6M7oNyrPMkrLvDyA7rk7ve5bjdjqP0eGVuDl4v2/J4+A4f5nbssJPYO6w2TqtxGr/oUU6sgOwrLjE5qLGActQxPqidtbQ9PSKXiiax+7OF3LVV5dJI9hOWv1usVwBGlGqRwHPe40w2YSUCG7wbVnoCEGAuDE04rWOu8CXK19BOBJ5lo0Fs/jfQZNjsHPoT9S4eO+4ar3k5FhG/Zhj6qnEMg2+apynewjlXIdwu4viyrTOHQ4euf/R+JXyn8f0UzwUL/pFN/KJbMXVmP+fEsD4zr+M78zsc42SJ3ry71OcXdqayiYP0sDZdCuKWTSw/hNvFPCHz/9XWOP4FHFqOh21bNAHJzhudHkzm3hHi1DK+/9EUckjKLzifdgkwHbS3BmTnLEhpsHqylwFJWqSuUSE9RJMkUfMS3pHfzW781um2zKTenN+1GRyJdBpjEU/OA7KMyX6u9CRMWwZuUOR3d2AbMq+gMPineaeKKmDDU2ZrRCY1bQIu+i6HVOiIlU/Qlu9BrP5OaA1/uvhRPA24QHFPfhKQXDcN9tsR+cbcYEQuwQFeTG0nFxK+SP8ayvOpIUdBXM9i+OWaUPL15dFGIlaIGXP5AxBhRaHII9MGXA609k0+rDxWuAsrBBehx2rCfyQzb29kYZKcJvs+OpEY69sG98N0nq+TkrPu7sLpwQabKCQaRME27sEYpzUdi3gN1DTEfBS9nljkCCRUagaAULv9xI1luI0xn+HnL9eaoyT+7VXJuioJGFgQQXBdJVByFK9oO0TR9amK+36j/zX8G0SARaOEPb4EZdqVVVdnv+QE7LvO7FWU3Ljwmd4fPMTXJzlQYWjW4pcMQOYTwRd0FjcV956kwp4iehTFdhTCo1Eg/IKQJNjVbQqHj2ve530zFRcoIOucE/GGGcw+Z9VOXeV1OctQmRuWHpOey16HMtU33Yl2MtcI4dMEK1HvHaTuunpJ1Oe295b52JS4t3kOXizwoSCcstu7f2mIpTGzH7WLHshVkJNJUnZnRwIaZoC29VM6IOnYkD/vLZ9D50YpXaRsKnxc/54sYJOXMEP2RgySIcaEot5gWH6xK7xfzvt44q9eOuHSe9mqAhrj8IyYOKWWtuk6/AcgxVnTCbZchS/J2I4baGYnLhx20pkfcNXcM8Fw50JZ+3kKFtSs+sBBMjzFP2a5wunfJAWBJorKWB/XpD9MU0LzTKJqojSeC2k1yvca3FUBpys+MrnSI46qra71FXR8+wQw5hrKKe9PASGYuK0PlSytuqi73D1oxb7I473LJldWOuoETrj5YZ2KRF8R3KuY17T0pI7WfQqI0aF9uEl+Ko0ncpyq1JKayxIdqs6d8uFyiO5avOnruyeFXq3NxGX6EwD+zM/Wsp4YN588ZtSj0sQ4WG8ZSe/EF3Id6IXtzXadgK6rGiW/pS69ZEJFn1AL/cAkXgmiEYxnNBs8tsl42t1zDUjH/tcvZSdGRp6aeDJrwr/emzg1B0k12gSHVZWQ4hAVZjJ9Ykw6s4BXWVuQ0h2ZtYYvkSTj5zaw1iLhN/I4h2oqkjFA33SVkKKfL9tvhyUZaeo/Qo5x+P3kx5D/RLcWC7HDs9CH4RGiaQfyc07zNuZNwsbP4fzFEf0jJQ4kaODc19vnXLlbyM4FFY2bqMSfYRh00pzpI5f+V9KzQ0tgqEkfxinDsT2JSdGTeIVcEOq8Y+iUUkQwq2Xgm/lvgvhFhc22ryv4nR1d6KL/gB1IbitMNVhNbF5X+5gJ82W7o1yJo+BswnZLgsNHTFLrysSyUPWUw+BdhzAXgWpcabbmjOzhUdGRmwS2oWokPn6q4tyTWRcT86W9ZFQgMc2SIkbKV91JPqwKk0nW+clalJcuUOKBOlBD9/6yz5N0F+KyM1nVIcUyz+DXDO3Mz7MYJIfc/Oe7W5LX0NH7oRtU3J53bD1sVuBRaQryaR+SDb8yPZtR2A8M8SucfezIT+lZPlRnrOzouHFwUDoT7x8zkZbhCsGJpN4zxmhxHkgQwFTaMSmug+GSQMdYa6CEDdGuP7jX5NtnwYnl4Ul3pBmZ1LSJfrkWKYK9t8v/ZQea9pWJ+RJIxp15+ZfknYFQS9byc1hQXfWGsK9VTL9Jo1qI5xUp+AABa94IFWa15oqk05Nnlbj9wAKT2+MZePTxFmQDsBjtKz2T/n3/XwcPIhjDNkjFbOxLw6XrEa0gWe9fAtaY8QUwjCe6d7WCpLs1ha4OnSSqSjywaOPeP6letWPtKhbos2hJRIgdZQpx3RMnlUcgL3DW2sJ60FSzFG7MtgpKThoOXl2eBsYYf7Pu+HH+VEkbe2KRjUt0ILKuzgVnpI00AfVmjQ+w4yZh9zr/X1SnijmFbDVuBrmEsutjlV8/h63VBtmB7ZVJmtNjQbfEYUpK2wxOWTvcqMqxYjGKYClj1UVunZzlvkmSmJYbHnqRtjwhg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZLwgrKBeKrJjN6Q_X_z2n2pAfnTIyr8w6c7s5T2Hk35bK7TmL-EOGmwQpAUVTx6o_mVN-pZ46PU74sAql8LlaG-PVYXf-R9dP4xYxluyQp3e0&amp;t=638628279619783110" type="text/javascript"></script>
+
+<input type="hidden" name="lng" id="lng" value="en-GB" />
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yKpcdkS5dNdcIJ13CgL7hY5ZgyfCjL2P0cSQh7tBgK0RKdNlKqW80nY3yMKUDGteSEy84sBGs_QCIHbbcP_8JiDco_z1zqbe3GzoSAyq0nZ46DFJ7kD8NGLkfVZstm1vE-U6vp0JH5KpmVXzTBSkwWNGtualHzg_N050yYEkI8Y7zxLGt9bfh2YLWv-on_RTIA2&amp;t=2a9d95e3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadEoH5mwGLXddANo0xjYRkZ3RBTTaFJJx5L2D_GESORTiuFdky9DzaUKzDA8LCmAOrF7_LpG_AS_tSWTUIwyuD4RDJ2NHjYZTOXOhPRK7Jx2-yGoN47suZCzMDjxQXfDtBkY3JQ7yV1mBR-M2RMRdm8X4ZHz8Uh61IJbZCvcq-adv0j7MmtOeUBExBlG-4TVOgA2&amp;t=2a9d95e3" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [], [], 90, '');
+//]]>
+</script>
+
+    <div id="ctxM">
+
+</div>
+    
+<header class="header ">
+  <div class="grid-container">
+    <div class="top-bar stacked-for-small">
+        <div class="top-bar-left">
+            <a class="gva-logo" href="/en/">
+                <img src="/Images/logo-gva.aspx" alt="Genève Aéroport logo" /></a>
+          
+        </div>
+        
+
+<div class="top-bar-right">
+
+    <ul class="dropdown menu headermenu" role="menubar" data-dropdown-menu>
+        <li class="headermenu-menuitem headermenu-menuitem--search" role="menuitem">
+            <div class="form show-for-large">
+                <input name="p$lt$ctl02$TopRightMenu$headersearch" type="text" id="p_lt_ctl02_TopRightMenu_headersearch" class="input--search" placeholder="Search" aria-label="Search" />
+            </div>
+            <a class="hide-for-large" href="/en/Site/Outils/Rechercher?currentSpace=Passagers" aria-label="Search">
+                <i aria-hidden="true" class="headermenu-menuitem-picto fas fa-search"></i>
+            </a>
+        </li>
+        
+        <li class="headermenu-menuitem headermenu-menuitem--account" role="menuitem">
+            <a href="/en/Mon-Compte/Login" aria-label="My account">
+                <span class="headermenu-menuitem-label">My account</span>
+                <i aria-hidden="true" class="headermenu-menuitem-picto fas fa-user-circle"></i>
+            </a>
+        </li>
+        
+        <li class="headermenu-menuitem headermenu-menuitem--cart" role="menuitem">
+            <a href="/en/Site/E-services/Panier" aria-label="Basket">
+                <span class="headermenu-menuitem-label">Basket</span>
+                <i aria-hidden="true" class="headermenu-menuitem-picto fas fa-shopping-basket"></i>
+                
+            </a>
+            
+        </li>
+        <li class="headermenu-menuitem headermenu-menuitem-lang">
+            <a><span class="show-for-small-only">en</span><span class="show-for-medium">English</span></a>
+            <ul class="menu headermenu-menuitem-lang-list">
+                
+                        <li class="show-for-medium"><a title="Français" href='/fr/Site/Passagers/Vols/Informations/Departs'>Français</a></li>
+                        <li class="show-for-small-only"><a title="Français" href='/fr/Site/Passagers/Vols/Informations/Departs'>fr</a></li>
+                    
+                        <li class="show-for-medium"><a title="Deutsch" href='/de/Site/Passagers/Vols/Informations/Departs'>Deutsch</a></li>
+                        <li class="show-for-small-only"><a title="Deutsch" href='/de/Site/Passagers/Vols/Informations/Departs'>de</a></li>
+                    
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.input--search').keypress(function (e) {
+            if (e.which === 13 || e.keyCode === 13) {
+                e.preventDefault();
+                var searchText = e.target.value;
+                var link = (searchText !== "") ? "/en/Site/Outils/Rechercher?currentSpace=Passagers&searchText=" + encodeURIComponent(searchText) : "#";
+                window.location.href = link;
+            }
+        })
+
+         
+    });
+
+    var timer;
+
+    function countDownTo(eraseDate) {
+        let display = document.getElementById("carttimer");
+        timer = setInterval(function () {
+            let msDif = eraseDate - new Date();
+            if (msDif < 0) {
+                clearInterval(timer);
+                emptyBasket();
+            }
+
+            let minutes = Math.floor(msDif / (1000 * 60));
+            let seconds = Math.floor((msDif / 1000) % 60);
+            display.textContent = [("0" + minutes).slice(-2),
+            ("0" + seconds).slice(-2)].join(':');
+
+        }, 1000);
+    }
+
+    function emptyBasket() {
+        location.reload();
+    }
+</script>
+
+    </div>
+  </div>
+  <div class="grid-container-xl">
+  
+<nav class="sitemenu" id="menuhorizontalgva"><div class="sitemenu-top" data-hide-for="medium">
+<div class="select-dropdown">
+<button onClick="return false;" href="#" role="button" data-value="Passengers" class="select-dropdown-button darkblue" >
+<span>Passengers</span>
+</button>
+<ul class= "select-dropdown-list">
+<li data-value="Passengers" data-color="darkblue" class="select-dropdown-list-item darkblue hide">
+Passengers
+</li>
+<li data-value="Professionals" data-color="grey" class="select-dropdown-list-item grey">
+Professionals
+</li>
+<li data-value="Airport" data-color="lightgrey" class="select-dropdown-list-item lightgrey">
+Airport
+</li>
+</ul>
+</div>
+</div>
+<ul class="sitemenu-sections medium-horizontal menu" data-responsive-menu="accordion large-dropdown" data-close-on-click="false" data-close-on-click-inside="false" data-submenu-toggle="false" data-multi-open="false">
+<li class="sitemenu-section  section--iscurrent darkblue"><a class="sitemenu-section-title  section-title--iscurrent" href="/en/" target=""><span>Passengers</span></a><ul data-value="Passengers" class="menu section-submenus  section-submenus--iscurrent section-submenus--isvisible "><li class="section-submenu"><a href="/en/Site/Passagers/Vols/Informations/Arrivees" class="section-submenu-title" target="">Flights</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Vols/Informations/Departs" class="submenu-link-title" target="">Information</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Vols/Informations/Departs"><p>Today's Departures</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Vols/Informations/Arrivees"><p>Today's Arrivals</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Contacts/Compagnies-aeriennes"><p>Airlines</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Vols/Destinations-depart-Geneve" class="submenu-link-title" target="">Destinations</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Vols/Destinations/Reserver-mon-vol"><p>Book my flight</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Vols/Destinations-depart-Geneve/Vols-directs"><p>Direct Flights</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Vols/Destinations-depart-Geneve/Europe"><p>Europe</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Vols/Destinations-depart-Geneve/Hors-Europe"><p>Outside Europe</p></a></li></ul></li><li class="submenu-link position-relative"><div class="hilight"><div class=""><picture class="filter"><source srcset="/getmedia/19c8415d-7125-46dc-ba81-f5c287caac46/Ete-2024.png?width=250&height=250&ext=.png" media="(max-width: 767px)" /><source srcset="/getmedia/19c8415d-7125-46dc-ba81-f5c287caac46/Ete-2024.png?width=250&height=250&ext=.png" media="(max-width: 1279px)" /><source srcset="/getmedia/19c8415d-7125-46dc-ba81-f5c287caac46/Ete-2024.png?width=250&height=250&ext=.png" media="(max-width: 1280px)" /><img src="/getmedia/19c8415d-7125-46dc-ba81-f5c287caac46/Ete-2024.png?width=250&height=250&ext=.png" alt="PictoHighlight" /></picture></div><h3 class="aside-title">Direct flights departing from Geneva</h3><p></p><a href="/en/Site/Passagers/Vols/Destinations-depart-Geneve/Vols-directs" class="flink" title="Direct flights departing from Geneva" target="_self"></a></div></li></div></ul></li><li class="section-submenu"><a href="#" class="section-submenu-title" target="">Journey preparation</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Preparation-voyage/Informations-et-hebergement/Hotels-a-proximite-de-l-Aeroport" class="submenu-link-title" target="">Information and accommodations</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Informations-et-hebergement/Hotels-a-proximite-de-l-Aeroport"><p>Hotels</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Informations-et-hebergement/Guichets-information-passagers"><p>Visitors Center</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Services/Business-multimedia/free-wifi-gva"><p>Wifi at the airport</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Informations-et-hebergement/Services-VIP"><p>VIP Services</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Informations-et-hebergement/Horaires-d-ouverture-et-reglement"><p>Opening Hours and Regulations</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Preparation-voyage/Enregistrement-Bagages" class="submenu-link-title" target="">Baggage & Check-in</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Enregistrement-Bagages/Bagages-cabine"><p>Hand luggage</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Enregistrement-Bagages/Bagages-soute"><p>Hold baggage</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Enregistrement-Bagages/Enregistrement"><p>Check-in</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Enregistrement-Bagages/Service-Porteur-bagages"><p>Baggage Porter Service</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Preparation-voyage/Demarches-administratives" class="submenu-link-title" target="">Administrative procedures</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Demarches-administratives/Visas-Papiers-identite"><p>Visas and identity papers</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Demarches-administratives/Objets-perdus"><p>Lost property</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Demarches-administratives/Droits-passagers"><p>Air passenger rights</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/Demarches-administratives/Detaxe-objets"><p>Tax refund for items</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Preparation-voyage/PMR" class="submenu-link-title" target="">Persons with reduced mobility</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/PMR/Preparer-voyage"><p>Prepare your trip</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/PMR/Arriver-Quitter-aeroport"><p> Arriving and leaving the airport</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/PMR/A-aeroport"><p>At the airport</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/PMR/Standards-qualite-PMR"><p>Quality standards</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Preparation-voyage/PMR/Contacts"><p>Contacts PRM</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport" class="section-submenu-title" target="">Access & Transport</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Acces-Transports/Parkings" class="submenu-link-title" target="">Car parks </a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Parkings/Parkings"><p>Airport car parks</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Parkings/Parkings-eloignes"><p>Remote car parks + shuttles</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/reserver-service/Parkings"><p>Car park booking</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport" class="submenu-link-title" target="">Transport</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Trains-Suisse-France"><p>Trains</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Reduction-de-train"><p>Train ticket discount</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Train-matinal-pour-l-aeroport"><p>Morning / late night train </p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Bus-urbains-Geneve"><p>Urban transports</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Service-matinal-aerobus"><p>Aérobus morning service</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Cars-France-Stations-ski"><p>Regional bus</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Navettes-gratuites-Hotels"><p>Shuttle buses to hotels</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Velos-en-libre-service"><p> Self-service bicycles</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Transports-publics-aeroport/Taxis-Geneve"><p>Taxis</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Acces-Transports/Location-voitures" class="submenu-link-title" target="">Car rental</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Location-voitures/Suisse"><p>Switzerland</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Location-voitures/France"><p>France</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Acces-Transports/Voituriers-(1)/Service-officiel-de-voituriers" class="submenu-link-title" target="">Valet parking</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Voituriers-(1)/Service-officiel-de-voituriers"><p>Official valet car service</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Acces-Transports/Plan/Plan-du-Terminal-1" class="submenu-link-title" target="">Maps and French sector</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Plan/Plan-du-Terminal-1"><p>Terminal 1 map and information</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Plan/Secteur-France"><p>French Sector</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Acces-Transports/Plan/Terminal-2"><p>Terminal 2</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Passagers/Shopping" class="section-submenu-title" target="">Shops & Restaurants</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Shopping/Commerces/Tous-les-commerces" class="submenu-link-title" target="">Shops</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/Duty-Free"><p>Duty Free</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/Alimentation"><p>Food</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/Montres-bijoux"><p>Watches & jewels </p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/Mode-accessoires"><p>Fashion</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/pharmacie-et-beaute"><p>Drugstore & beauty</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/Presse-Tabac"><p>Press & books</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Commerces/Electronique-souvenirs-fleurs"><p>Electronic devices, souvenirs, flowers</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Shopping/Restaurants-bars/Tous-les-restaurants-et-bars" class="submenu-link-title" target="">Restaurants & bars</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Restaurants-bars/Bars-Snacks-Tea-Rooms"><p>Bars, snacks, tea rooms</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Restaurants-bars/Restaurants"><p>Restaurants</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Shopping/Services/Tous-les-services" class="submenu-link-title" target="">Services</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Services/Banques-change-poste"><p>Banks, change, post office</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Services/Bien-etre"><p>Wellness</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Services/Voyages"><p>Travel</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Services/Business-multimedia"><p>Business & Multimedia</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/Services/Consignes"><p>Deposits</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Shopping/News/Actualites" class="submenu-link-title" target="">News</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/News/Actualites"><p>News</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Passagers/reserver-service" class="section-submenu-title" target="">Book online</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Passagers/e-services/Les-plus-courants" class="submenu-link-title" target="">The most common ones</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/reserver-service/Parkings"><h3>ResaPark</h3><p>Car park booking</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/reserver-service/Priority-Lane"><h3>Priority Lane</h3><p>Skip the line at the security check</p></a></li><li class="submenu-link-item"><a href="/en/Site/Passagers/reserver-service/PackVip"><h3>VIP Pack</h3><p>Priority Lane and Lounge</p></a></li><li class="submenu-link-item"><a href="https://www.gva.boutique/?utm_source=Menu-PAX&utm_medium=GVAch&utm_campaign=GVA-Boutique"><h3>gva.boutique</h3><p>Buy exclusive and collector items</p></a></li><a class="submenu-link-more" href="/en/Site/Passagers/Plateforme-services">All services</a></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Plateforme-services" class="submenu-link-title" target="">By need</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Plateforme-services?cat=Need&filter=ProfesionalService"><h3>Professional services</h3><p>Lounge, Wi-Fi, phone charging…</p></a></li><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Need&filter=SaveTime"><h3>Save time</h3><p>Fast Track, click & collect...</p></a></li><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Need&filter=HaveFun"><h3>Entertainment</h3><p>Children's play area, multimedia and connectivity…</p></a></li><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Need&filter=HaveFun"><h3>Relaxation</h3><p>Lounges, restaurants, panoramic terrace…</p></a></li><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Need&filter=Move"><h3>Getting around</h3><p>Book a parking place, rent a car...</p></a></li><a class="submenu-link-more" href="/Site/Passagers/Plateforme-services?cat=Need">All needs</a></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Plateforme-services" class="submenu-link-title" target="">By moment</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Moment&filter=BeforeTravel"><h3>Before your journey</h3><p>Book a flight, parking, purchase public transportation tickets, transport your luggage…</p></a></li><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Moment&filter=DepartureTime"><h3>Upon departure</h3><p>Book a Priority Lane, relax in a lounge, dine...</p></a></li><li class="submenu-link-item"><a href="/Site/Passagers/Plateforme-services?cat=Moment&filter=ArrivalTime"><h3>Upon arrival</h3><p>Rent a car, shop in duty-free, exchange currency…</p></a></li></ul></li><li class="submenu-link position-relative"><div class="hilight"><div class=""><picture class="filter"><source srcset="/getmedia/b280fc0f-f9a3-4165-b5b0-57a402039203/gva-boutique.png?width=250&height=250&ext=.png" media="(max-width: 767px)" /><source srcset="/getmedia/b280fc0f-f9a3-4165-b5b0-57a402039203/gva-boutique.png?width=250&height=250&ext=.png" media="(max-width: 1279px)" /><source srcset="/getmedia/b280fc0f-f9a3-4165-b5b0-57a402039203/gva-boutique.png?width=250&height=250&ext=.png" media="(max-width: 1280px)" /><img src="/getmedia/b280fc0f-f9a3-4165-b5b0-57a402039203/gva-boutique.png?width=250&height=250&ext=.png" alt="PictoHighlight" /></picture></div><h3 class="aside-title">gva.boutique</h3><p>Buy airport collector's items</p><a href="https://www.gva.boutique/?utm_source=Menu-PAX&utm_medium=GVAch&utm_campaign=GVA-Boutique" class="flink" title="gva.boutique" target="_blank"></a></div></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Passagers/News/2025" class="section-submenu-title" target="">News</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Passagers/News/2025" class="submenu-link-title" target="">News</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/News/2025"><p>Find the latest news from Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Shopping/News" class="submenu-link-title" target="">Shopping news</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/News/News-Shopping"><p>News, special offers, and discounts in our shops</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/News" class="submenu-link-title" target="">Airport news</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/News/News-Aeroport"><p>Institutional information, press releases, and latest news</p></a></li></ul></li></div></ul></li></ul></li><li class="sitemenu-section grey"><a class="sitemenu-section-title " href="/en/Site/Professionnels/Accueil-Professionnels" target=""><span>Professionals</span></a><ul data-value="Professionals" class="menu section-submenus "><li class="section-submenu"><a href="/en/Site/Professionnels/Accueil-Professionnels" class="section-submenu-title" target="">Home</a><li class="section-submenu"><a href="/en/Site/Professionnels/prestations-aeronautiques/Tarifs-et-redevances-aeriennes-(1)/tarifs-redevances-aeriennes" class="section-submenu-title" target="">Aviation services</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/prestations-aeronautiques/Tarifs-et-redevances-aeriennes-(1)/tarifs-redevances-aeriennes" class="submenu-link-title" target="">Airport charges and fares</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/prestations-aeronautiques/Tarifs-et-redevances-aeriennes-(1)/tarifs-redevances-aeriennes"><p>Airport charges information</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/prestations-aeronautiques/Exploitation-aeroportuaire-(1)/Exploitation-aeroportuaire" class="submenu-link-title" target="">Airport operation</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/prestations-aeronautiques/Exploitation-aeroportuaire-(1)/Exploitation-aeroportuaire"><p>Regulations of Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/prestations-aeronautiques/PPR-(regulation-trafic-aerien)-(1)/PPR" class="submenu-link-title" target="">Prior Permission Required (PPR)</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/prestations-aeronautiques/PPR-(regulation-trafic-aerien)-(1)/PPR"><p>Air Traffic Coordination in Geneva</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/prestations-aeronautiques/Airport-Collaborative-Decision-Making-(1)/A-CDM" class="submenu-link-title" target="">Airport - Collaborative Decision Making</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/prestations-aeronautiques/Airport-Collaborative-Decision-Making-(1)/A-CDM"><p>Optimization of airport operations</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Publicite-dans-l-aeroport-(1)/Publicite-aeroport" class="section-submenu-title" target="">Non aviation services</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Publicite-dans-l-aeroport-(1)/Publicite-aeroport" class="submenu-link-title" target="">Advertisement at the airport</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Publicite-dans-l-aeroport-(1)/Publicite-aeroport"><p>Advertising display at Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Locations-de-surfaces-(1)/Locations-surfaces" class="submenu-link-title" target="">Premises renting</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Locations-de-surfaces-(1)/Locations-surfaces"><p>Space rental at Genève Aéroport</p></a></li><li class="submenu-link-item"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Locations-de-surfaces-(1)/Location-guichets-accueil-temporaires"><p>Counter rental at the Visitors Center</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Transport-des-passagers-(1)/Transport-passagers" class="submenu-link-title" target="">Passengers to transport and passes</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Transport-des-passagers-(1)/Transport-passagers"><p>Procedures for passenger transport</p></a></li><li class="submenu-link-item"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Transport-des-passagers-(1)/Laissez-passer"><p>Airport identity cards and authorizations</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Obstacles-a-la-navigation-aerienne-(1)/Obstacles-navigation-aerienne" class="submenu-link-title" target="">Obstacles to the aviation</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Obstacles-a-la-navigation-aerienne-(1)/Obstacles-navigation-aerienne"><p>Obstacle reporting obligations</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Prestations-non-aeronautiques/Prestations-DT-(1)" class="submenu-link-title" target="">ICT Services</a><ul class="menu submenu-link-items"></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Professionnels/Marketing-Sponsoring/Business-Development-(1)/Business-development" class="section-submenu-title" target="">Marketing</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Marketing-Sponsoring/Business-Development-(1)/Business-development" class="submenu-link-title" target="">Business Development</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Marketing-Sponsoring/Business-Development-(1)/Business-development"><p>Development opportunities for airlines</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Marketing-Sponsoring/Magazine-Take-Off-(1)/Magazine-Take-Off" class="submenu-link-title" target="">Take Off Magazine</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Marketing-Sponsoring/Magazine-Take-Off-(1)/Magazine-Take-Off"><p>Magazine of the destinations departing from Geneva. </p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Marketing-Sponsoring/GVA-Workshop-(1)/GVA-Workshop" class="submenu-link-title" target="">GVA Workshop</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Marketing-Sponsoring/GVA-Workshop-(1)/GVA-Workshop"><p>Gathering for airlines and travel agents</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Professionnels/Achats-Marches-publics/Regles-et-principes-generaux-d-achat-(1)/Regles-Principes-achats" class="section-submenu-title" target="">Purchasing & Public Procurement</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Achats-Marches-publics/Regles-et-principes-generaux-d-achat-(1)/Regles-Principes-achats" class="submenu-link-title" target="">General Purchasing Rules and Principles</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Achats-Marches-publics/Regles-et-principes-generaux-d-achat-(1)/Regles-Principes-achats"><p>Requirements to become a supplier of Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Achats-Marches-publics/Marches-Publics-Appels-d’offres-(1)/Appels-offres" class="submenu-link-title" target="">Public Procurement - Calls for Tenders</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Achats-Marches-publics/Marches-Publics-Appels-d’offres-(1)/Appels-offres"><p>Regulations on public procurement</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Achats-Marches-publics/Conformite-fournisseurs-(1)/Conformite-fournisseurs" class="submenu-link-title" target="">Supplier Compliance</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Achats-Marches-publics/Conformite-fournisseurs-(1)/Conformite-fournisseurs"><p>Relationship between Genève Aéroport and its suppliers</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Professionnels/Fret-GVA/Fret-Geneve-Aeroport-(1)/Fret-Geneve-Aeroport" class="section-submenu-title" target="">Cargo</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Fret-GVA/Fret-Geneve-Aeroport-(1)/Fret-Geneve-Aeroport" class="submenu-link-title" target="">Genève Aéroport Freight</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Fret-Geneve-Aeroport-(1)/Fret-Geneve-Aeroport"><p>Facilitating imports and exports for the region</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Fret-GVA/Plan-et-acces-halle-de-fret-(1)/Plan-Acces-halle-fret" class="submenu-link-title" target="">Map and access to the freight hall</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Plan-et-acces-halle-de-fret-(1)/Plan-Acces-halle-fret"><p>How to get to the cargo hall?</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/Fret-GVA/Contacts" class="submenu-link-title" target="">Cargo contacts</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Contacts/Compagnies-aeriennes-Cargo"><p>Cargo airlines & GSA</p></a></li><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Contacts/Courrier-Express"><p>Express Courier</p></a></li><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Contacts/Douanes-Ports-francs"><p>Customs and Freeport</p></a></li><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Contacts/Transitaires"><p>Forwarders</p></a></li><li class="submenu-link-item"><a href="/en/Site/Professionnels/Fret-GVA/Contacts/Agents-Handling"><p>Handling agents</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Professionnels/News" class="section-submenu-title" target="">News</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Professionnels/News/Actualites-B2B" class="submenu-link-title" target="">Latest news</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Professionnels/News/Actualites-B2B"><p>Find all our professional news</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/News" class="submenu-link-title" target="">Passengers news</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/News/2025"><p>Discover the news from Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Passagers/Shopping/News" class="submenu-link-title" target="">Shopping News</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Passagers/Shopping/News/Actualites"><p>Don't miss out on the special offers and discounts from our stores</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/News" class="submenu-link-title" target="">Airport news</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/News/News"><p>Check press releases and company news</p></a></li></ul></li></div></ul></li></ul></li><li class="sitemenu-section lightgrey"><a class="sitemenu-section-title " href="/en/Site/Geneve-Aeroport/Accueil-Corporate" target=""><span>Airport</span></a><ul data-value="Airport" class="menu section-submenus "><li class="section-submenu"><a href="/en/Site/Geneve-Aeroport/Accueil-Corporate" class="section-submenu-title" target="">Home</a><li class="section-submenu"><a href="/en/Site/Geneve-Aeroport/News" class="section-submenu-title" target="">News</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/News/News" class="submenu-link-title" target="">News</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/News/News"><p>Institutional information, press releases, and latest news</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/News/Archives" class="submenu-link-title" target="">Archives</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/News/Archives"><p>Access previous institutional news from Geneva Airport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/fr/Site/Geneve-Aeroport/News/Blog" class="submenu-link-title" target="">Blog</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/fr/Site/Geneve-Aeroport/News/Blog/Decouvr"><p>En savoir plus sur les enjeux et les projets de Genève Aéroport</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Geneve-Aeroport/Entreprise" class="section-submenu-title" target="">About us</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Entreprise/Qui-sommes-nous/En-bref" class="submenu-link-title" target="">About us</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Entreprise/Qui-sommes-nous/En-bref"><p>About Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Entreprise/Gouvernance-et-Organisation-(1)/Gouvernance-Management" class="submenu-link-title" target="">Governance & Management</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Entreprise/Gouvernance-et-Organisation-(1)/Gouvernance-Management"><p>Operation of Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Entreprise/Strategie,-vision-et-valeurs/Strategie-vision-valeurs" class="submenu-link-title" target="">Strategy, vision and values</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Entreprise/Strategie,-vision-et-valeurs/Strategie-vision-valeurs"><p>Commitments and objectives of Genève Aéroport</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Entreprise/Investisseurs-rapports/Investisseurs" class="submenu-link-title" target="">Investors & reports</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Entreprise/Investisseurs-rapports/Investisseurs"><p>Financial Reports of Genève Aéroport</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Engagements-et-objectifs-(1)/Engagements" class="section-submenu-title" target="">Sustainable development</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Engagements-et-objectifs-(1)/Engagements" class="submenu-link-title" target="">Commitments and objectives</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Engagements-et-objectifs-(1)/Engagements"><p>Sustainable Development Policy</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Gestion-du-bruit-(1)/Gestion-du-bruit" class="submenu-link-title" target="">Noise Management</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Gestion-du-bruit-(1)/Gestion-du-bruit"><p>Measures and actions for the local residents</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Contribution-economique-(1)/Contribution-economique" class="submenu-link-title" target="">Economic contribution</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Developpement-durable/Contribution-economique-(1)/Contribution-economique"><p>A Player in the Local Economy</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Geneve-Aeroport/Emplois/Emplois-Aeroport/Emplois-Geneve-Aeroport" class="section-submenu-title" target="">Jobs</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Emplois/Employeur-et-partenaire/Employeur-Partenaire-responsable" class="submenu-link-title" target="">An attractive and responsible employer</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Emplois/Employeur-et-partenaire/Employeur-Partenaire-responsable"><p> Discover Genève Aéroport as an employer</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Emplois/Emplois-Aeroport/Emplois-Geneve-Aeroport" class="submenu-link-title" target="">Job offers from Genève Aéroport</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Emplois/Emplois-Aeroport/Emplois-Geneve-Aeroport"><p>Airport employment</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Emplois/Emplois-instance/Emplois-Instances-aeroportuaires" class="submenu-link-title" target="">Job offers from active airport companies</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Emplois/Emplois-instance/Emplois-Instances-aeroportuaires"><p>Partner's employment at the airport</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="/en/Site/Geneve-Aeroport/Publications/Institutionnel-(1)/Institutionnel" class="section-submenu-title" target="">Our publications</a><ul class="menu submenu-links"><div class="grid-container"><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Publications/Institutionnel-(1)/Institutionnel" class="submenu-link-title" target="">Institutional</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Publications/Institutionnel-(1)/Institutionnel"><p>Access our reports</p></a></li><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Publications/Institutionnel-(1)/Archives"><p>Access our previous reports</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Publications/Pratique-Voyage-(1)/Pratique-Voyage" class="submenu-link-title" target="">Practical & Travel</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Publications/Pratique-Voyage-(1)/Pratique-Voyage"><p>Explore our publications and travel guides</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Publications/Statistiques-(1)/Statistiques" class="submenu-link-title" target="">Statistics</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Publications/Statistiques-(1)/Statistiques"><p>Review our key statistics</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Publications/Mediatheque-(1)/Mediatheque" class="submenu-link-title" target="">Media Library</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Publications/Mediatheque-(1)/Mediatheque"><p>Discover and download our media</p></a></li></ul></li><li class="submenu-link position-relative"><a href="/en/Site/Geneve-Aeroport/Publications/Logo-charte-(1)/Logo-Charte" class="submenu-link-title" target="">Logo & charter</a><ul class="menu submenu-link-items"><li class="submenu-link-item"><a href="/en/Site/Geneve-Aeroport/Publications/Logo-charte-(1)/Logo-Charte"><p>Download our logo and graphic materials</p></a></li></ul></li></div></ul></li><li class="section-submenu"><a href="https://gva.blog/" class="section-submenu-title" target="_blank">GVA Blog</a></ul></li></ul>
+
+<div class="box-shadow" style="display: none;" data-hide-for="medium"></div>
+</nav>
+      <div class="hero hero--home">
+        <div class="hero-img-bg" style="background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25)), url('/getmedia/198203e1-2909-4b58-97ea-93130873d724/Departs-tableau-vols.jpg?width=1125&height=400&ext=.jpg')"></div>
+        
+        </div>
+      </div>
+      
+
+<div class="grid-container grid-container-fullmobile position-relative">
+    <div class="tools-w tools-w-flight-search ">
+
+    
+    
+    
+    
+        
+     
+    <div class="tool">
+        <div class="searchbox searchbox--toggle">
+            <div class="form form--dark form--floating">
+                <div class="searchbox-header">
+                    <span class="searchbox-header-title">Search for departure flights</span>
+                </div>
+                <div class="searchbox-body searchbox-body--show" id="searchbox-uniqueid">
+                    <div class="grid-x grid-margin-x ">
+
+                        
+                        <div class="searchbox-body-cell cell small-12">
+                            <select name="p$lt$ctl04$HeaderSearchForm$CityList" id="p_lt_ctl04_HeaderSearchForm_CityList" class="input--chevron no-label" aria-label="Choisir une ville">
+	<option value="">City</option>
+	<option value="AUH">Abu Dhabi</option>
+	<option value="ADD">Addis Ababa</option>
+	<option value="AGA">Agadir</option>
+	<option value="AJA">Ajaccio</option>
+	<option value="ALG">Algiers</option>
+	<option value="ALC">Alicante</option>
+	<option value="AMM">Amman</option>
+	<option value="AMS">Amsterdam</option>
+	<option value="AYT">Antalya</option>
+	<option value="ATH">Athens</option>
+	<option value="BCN">Barcelona</option>
+	<option value="BIA">Bastia</option>
+	<option value="PEK">Beijing</option>
+	<option value="BEY">Beirut</option>
+	<option value="BER">Berlin</option>
+	<option value="BIQ">Biarritz</option>
+	<option value="BOD">Bordeaux</option>
+	<option value="BDS">Brindisi</option>
+	<option value="BRS">Bristol</option>
+	<option value="BRU">Brussels</option>
+	<option value="BUD">Budapest</option>
+	<option value="CAG">Cagliari</option>
+	<option value="CMN">Casablanca</option>
+	<option value="CTA">Catania</option>
+	<option value="CPH">Copenhagen</option>
+	<option value="DJE">Djerba</option>
+	<option value="DOH">Doha</option>
+	<option value="DXB">Dubai</option>
+	<option value="DUB">Dublin</option>
+	<option value="DBV">Dubrovnik</option>
+	<option value="DUS">Dusseldorf</option>
+	<option value="EDI">Edinburgh</option>
+	<option value="NBE">Enfidha</option>
+	<option value="FAO">Faro</option>
+	<option value="FRA">Frankfurt</option>
+	<option value="LPA">Gran Canaria</option>
+	<option value="HEL">Helsinki</option>
+	<option value="HER">Heraklion</option>
+	<option value="HRG">Hurghada</option>
+	<option value="IBZ">Ibiza</option>
+	<option value="IST">Istanbul IST</option>
+	<option value="SAW">Istanbul SAW</option>
+	<option value="JED">Jeddah</option>
+	<option value="KWI">Kuwait</option>
+	<option value="LCG">La Coruna</option>
+	<option value="ACE">Lanzarote</option>
+	<option value="LIS">Lisbon</option>
+	<option value="LGW">London LGW</option>
+	<option value="LHR">London LHR</option>
+	<option value="LTN">London LTN</option>
+	<option value="LUX">Luxembourg</option>
+	<option value="FNC">Madeira Funchal</option>
+	<option value="MAD">Madrid</option>
+	<option value="MAH">Mahon Menorca</option>
+	<option value="AGP">Malaga</option>
+	<option value="MAN">Manchester</option>
+	<option value="RAK">Marrakech</option>
+	<option value="RMF">Marsa Alam</option>
+	<option value="YUL">Montreal</option>
+	<option value="MUC">Munich</option>
+	<option value="NTE">Nantes</option>
+	<option value="NAP">Naples</option>
+	<option value="JFK">New York</option>
+	<option value="EWR">Newark</option>
+	<option value="NCE">Nice</option>
+	<option value="OLB">Olbia</option>
+	<option value="OSL">Oslo</option>
+	<option value="PMO">Palermo</option>
+	<option value="PMI">Palma Mallorca</option>
+	<option value="CDG">Paris CDG</option>
+	<option value="ORY">Paris ORY</option>
+	<option value="OPO">Porto</option>
+	<option value="PRG">Prague</option>
+	<option value="PRN">Pristina</option>
+	<option value="RUH">Riyadh</option>
+	<option value="FCO">Rome</option>
+	<option value="SCQ">Santiago SCQ</option>
+	<option value="JTR">Santorini</option>
+	<option value="SVQ">Sevilla</option>
+	<option value="SPU">Split</option>
+	<option value="ARN">Stockholm</option>
+	<option value="TBS">Tbilisi</option>
+	<option value="TFS">Tenerife</option>
+	<option value="TIA">Tirana</option>
+	<option value="TIV">Tivat</option>
+	<option value="TLS">Toulouse</option>
+	<option value="TUN">Tunis</option>
+	<option value="VLC">Valencia</option>
+	<option value="VCE">Venice</option>
+	<option value="VIE">Vienna</option>
+	<option value="WAW">Warsaw</option>
+	<option value="IAD">Washington</option>
+	<option value="ZRH">Zurich</option>
+
+</select>
+                        </div>
+
+                        <div class="searchbox-body-cell cell small-7">
+                            <select name="p$lt$ctl04$HeaderSearchForm$DateDay" id="p_lt_ctl04_HeaderSearchForm_DateDay" class="input--chevron no-label" aria-label="Choisir un jour">
+	<option selected="selected" value="638815680000000000">Today</option>
+	<option value="638816544000000000">Tomorrow</option>
+
+</select>
+                        </div>
+
+                        <div class="searchbox-body-cell cell small-5">
+                            <select name="p$lt$ctl04$HeaderSearchForm$DateHour" id="p_lt_ctl04_HeaderSearchForm_DateHour" class="input--time no-label" aria-label="Choisir une heure">
+	<option value="">Time</option>
+	<option value="04:00">04:00</option>
+	<option value="05:00">05:00</option>
+	<option value="06:00">06:00</option>
+	<option value="07:00">07:00</option>
+	<option value="08:00">08:00</option>
+	<option value="09:00">09:00</option>
+	<option value="10:00">10:00</option>
+	<option value="11:00">11:00</option>
+	<option value="12:00">12:00</option>
+	<option value="13:00">13:00</option>
+	<option value="14:00">14:00</option>
+	<option value="15:00">15:00</option>
+	<option value="16:00">16:00</option>
+	<option value="17:00">17:00</option>
+	<option value="18:00">18:00</option>
+	<option value="19:00">19:00</option>
+	<option value="20:00">20:00</option>
+	<option value="21:00">21:00</option>
+	<option value="22:00">22:00</option>
+	<option value="23:00">23:00</option>
+
+</select>
+                        </div>
+
+                        <div class="searchbox-body-cell cell small-12">
+                            <select name="p$lt$ctl04$HeaderSearchForm$AirlineList" id="p_lt_ctl04_HeaderSearchForm_AirlineList" class="input--chevron no-label" aria-label="Choisir une compagnie aérienne">
+	<option value="">Airline</option>
+	<option value="AEGEAN AIRLINES">AEGEAN AIRLINES</option>
+	<option value="AER LINGUS">AER LINGUS</option>
+	<option value="AIR ALGERIE">AIR ALGERIE</option>
+	<option value="AIR ARABIA MAROC">AIR ARABIA MAROC</option>
+	<option value="AIR CANADA">AIR CANADA</option>
+	<option value="AIR CHINA">AIR CHINA</option>
+	<option value="AIR FRANCE">AIR FRANCE</option>
+	<option value="AUSTRIAN">AUSTRIAN</option>
+	<option value="BRITISH AIRWAYS">BRITISH AIRWAYS</option>
+	<option value="BRUSSELS AIRLINES">BRUSSELS AIRLINES</option>
+	<option value="DELTA AIR LINES">DELTA AIR LINES</option>
+	<option value="EASYJET">EASYJET</option>
+	<option value="EMIRATES">EMIRATES</option>
+	<option value="ETHIOPIAN AIRLINES">ETHIOPIAN AIRLINES</option>
+	<option value="ETIHAD AIRWAYS">ETIHAD AIRWAYS</option>
+	<option value="EUROWINGS">EUROWINGS</option>
+	<option value="FINNAIR">FINNAIR</option>
+	<option value="GP AVIATION">GP AVIATION</option>
+	<option value="IBERIA">IBERIA</option>
+	<option value="ITA AIRWAYS">ITA AIRWAYS</option>
+	<option value="KLM ROYAL DUTCH AIRLINES">KLM ROYAL DUTCH AIRLINES</option>
+	<option value="KUWAIT AIRWAYS">KUWAIT AIRWAYS</option>
+	<option value="LOT POLISH AIRLINES">LOT POLISH AIRLINES</option>
+	<option value="LUXAIR">LUXAIR</option>
+	<option value="MEA MIDDLE EAST AIRLINES">MEA MIDDLE EAST AIRLINES</option>
+	<option value="NORWEGIAN AIR SHUTTLE">NORWEGIAN AIR SHUTTLE</option>
+	<option value="NOUVELAIR TUNISIE">NOUVELAIR TUNISIE</option>
+	<option value="PEGASUS">PEGASUS</option>
+	<option value="QATAR AIRWAYS">QATAR AIRWAYS</option>
+	<option value="ROYAL AIR MAROC">ROYAL AIR MAROC</option>
+	<option value="ROYAL JORDANIAN">ROYAL JORDANIAN</option>
+	<option value="SAS SCANDINAVIAN AIRLINES">SAS SCANDINAVIAN AIRLINES</option>
+	<option value="SAUDIA">SAUDIA</option>
+	<option value="SUN EXPRESS">SUN EXPRESS</option>
+	<option value="SWISS">SWISS</option>
+	<option value="TAP PORTUGAL">TAP PORTUGAL</option>
+	<option value="TUNISAIR">TUNISAIR</option>
+	<option value="TURKISH AIRLINES">TURKISH AIRLINES</option>
+	<option value="UNITED AIRLINES">UNITED AIRLINES</option>
+	<option value="VUELING">VUELING</option>
+
+</select>
+                        </div>
+
+                        <div class="searchbox-body-cell cell small-12">
+                            <input name="p$lt$ctl04$HeaderSearchForm$FlightNumber" type="text" id="p_lt_ctl04_HeaderSearchForm_FlightNumber" title="Flight nr." />
+                            <label for="p_lt_ctl04_HeaderSearchForm_FlightNumber">Flight nr.</label>
+                        </div>
+                        <script>
+                            $(document).ready(function () {
+                                window.initFloatingForm();
+                            });
+                        </script>
+                        
+                        <div class="searchbox-body-cell cell small-12">                            
+                            <input type="submit" name="p$lt$ctl04$HeaderSearchForm$searchBtn" value="Search" id="p_lt_ctl04_HeaderSearchForm_searchBtn" class="primary button expanded search-button" />                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+          
+    </div>
+</div>
+
+
+   
+  </div>
+  <div class="grid-container-xl"></div>
+</header>
+<main role="main" id="main">
+    <div id="p_lt_ctl06_WideBreadcrumbs_DivToChangeOffset" class="grid-container breadcrumbs-w breadcrumbs--services">
+    <div class="grid-x grid-margin-x">
+        <div  class="cell large-10 large-offset-1">
+
+            <nav aria-label=":">
+                <ul class="breadcrumbs">
+                    <li>
+                        <a href="/en/" title="Passengers" class="CMSBreadCrumbsLink">Passengers</a> </li><li> <a href="/en/Site/Passagers/Vols/Informations/Arrivees" title="Flights" class="CMSBreadCrumbsLink">Flights</a> </li><li> <a href="/en/Site/Passagers/Vols/Informations/Departs" title="Information" class="CMSBreadCrumbsLink">Information</a> 
+                    </li>
+                    <li id="p_lt_ctl06_WideBreadcrumbs_ShowDocumentNameLi">
+                        <span class="show-for-sr">: </span>
+                        Today departures
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+
+    
+
+
+     <article>
+       
+    <article>
+        
+        <header class="pageheader-w">
+            <div class="grid-container pageheader">
+                <div class="grid-x grid-margin-x">
+                    <div class="cell small-10 small-offset-1">
+                        <h1 class="pageheader-title text-center">Today departures</h1><p class="pageheader-subtitle"></p>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+
+        <style>
+                @media all and (-ms-high-contrast: none) { 
+                    .subnav-item-title-ie11exception{
+                        white-space:pre
+                    }
+                }  
+        </style>
+
+        <nav class="subnav-w ">
+            <div class="grid-container subnav">
+                <div class="grid-x grid-margin-x">
+                    <div class="cell small-10 small-offset-1">
+                        <nav>
+                            <div class="grid-x grid-padding-x subnav-grid">
+                                <div id="slider9ec6b1ffe41e480a902f3a2d9e621283" class="slider-w slider-subnav hyphens" data-flickity='{ "cellAlign": "center", "contain": true, "freeScroll": true, "groupCells": true}'>
+                                    
+                                            <div class="cell small-6 medium-3 large-shrink subnav-item ">
+                                                
+                                                    <a id="3403" href="/en/Site/Passagers/Vols/Informations/Arrivees"><i class="fas fa-plane-arrival subnav-item-picto"></i>
+                                                
+                                                
+                                                
+                                                    <p class="subnav-item-title subnav-item-title-ie11exception">Today arrivals</p>
+                                                
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="cell small-6 medium-3 large-shrink subnav-item subnav-item--iscurrent">
+                                                
+                                                    <a id="3402" href="/en/Site/Passagers/Vols/Informations/Departs"><i class="fas fa-plane-departure subnav-item-picto"></i>
+                                                
+                                                
+                                                    <h1 class="subnav-item-title">Today departures</h1>
+                                                
+                                                
+                                                </a>
+                                            </div>
+                                        
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        
+    </article>
+
+
+    <!--Item list-->
+    <script>
+
+        function SetCurrentSliderItem_9ec6b1ffe41e480a902f3a2d9e621283(newCurrentId) {
+
+            if (!vars_9ec6b1ffe41e480a902f3a2d9e621283.ShowChildren) return;
+
+            if (vars_9ec6b1ffe41e480a902f3a2d9e621283.currentSliderItem != newCurrentId) {
+                var index = vars_9ec6b1ffe41e480a902f3a2d9e621283.sliderItemIds.indexOf(vars_9ec6b1ffe41e480a902f3a2d9e621283.currentSliderItem);
+            if (index != -1) {
+                vars_9ec6b1ffe41e480a902f3a2d9e621283.flkty.getCellElements()[index].classList.remove("subnav-item--iscurrent");
+            }
+            index = vars_9ec6b1ffe41e480a902f3a2d9e621283.sliderItemIds.indexOf(newCurrentId);
+            if (index != -1) {
+
+                vars_9ec6b1ffe41e480a902f3a2d9e621283.flkty.getCellElements()[index].classList.add("subnav-item--iscurrent");
+
+                if (document.getElementById("moreResultsButton9ec6b1ffe41e480a902f3a2d9e621283") !== undefined && document.getElementById("moreResultsButton9ec6b1ffe41e480a902f3a2d9e621283") !== null) {
+                    document.getElementById("moreResultsButton9ec6b1ffe41e480a902f3a2d9e621283").style.visibility = "visible";
+                }
+                else {
+                    document.getElementById("moreResultsButton").style.visibility = "visible";
+                }
+
+                vars_9ec6b1ffe41e480a902f3a2d9e621283.currentSliderItem = newCurrentId;
+                vars_9ec6b1ffe41e480a902f3a2d9e621283.currentOffset = 0;
+
+                if (document.getElementById("childItems9ec6b1ffe41e480a902f3a2d9e621283") !== undefined && document.getElementById("childItems9ec6b1ffe41e480a902f3a2d9e621283") !== null) {
+                    document.getElementById("childItems9ec6b1ffe41e480a902f3a2d9e621283").innerHTML = "";
+                    }
+                    else {
+                        document.getElementById("childItems").innerHTML = "";
+                    }
+                }
+            }
+            LoadElements_9ec6b1ffe41e480a902f3a2d9e621283();
+        }
+
+        function LoadElements_9ec6b1ffe41e480a902f3a2d9e621283() {
+            let numberElementsToAsk = -1;
+
+            numberElementsToAsk = vars_9ec6b1ffe41e480a902f3a2d9e621283.paginationNumberItem;
+
+            var parentItem = (vars_9ec6b1ffe41e480a902f3a2d9e621283.currentSliderItem !== null) ? parseInt(vars_9ec6b1ffe41e480a902f3a2d9e621283.currentSliderItem) : 21909;
+            $.ajax({
+                type: "POST",
+                url: '/CMSPages/WideGva/PageChildrenTransformed.aspx',
+                data: JSON.stringify({
+                    parentItem: parentItem,
+                    offset: vars_9ec6b1ffe41e480a902f3a2d9e621283.currentOffset,
+                numberToLoad: numberElementsToAsk,
+                transformName: "",
+                culture: "en-GB",
+                isPublicationOrJob: false,
+                sortItemsByDate: false,
+                sortItemsBySortOrderThenDate: false,
+                getAllChildren: false,
+                childrenType: "WideGva.Flight;WideGva.Category",
+            }),
+            contentType: "application/json",
+            success: function (msg, status, xhr) {
+
+                if (document.getElementById("childItems9ec6b1ffe41e480a902f3a2d9e621283") !== undefined && document.getElementById("childItems9ec6b1ffe41e480a902f3a2d9e621283") !== null) {
+                    document.getElementById("childItems9ec6b1ffe41e480a902f3a2d9e621283").innerHTML += msg;
+                }
+                else {
+                    document.getElementById("childItems").innerHTML += msg;
+                }
+
+                if (getCookie_9ec6b1ffe41e480a902f3a2d9e621283("PageChildrenTransformedMoreAvailable") == "False") {
+                    if (document.getElementById("moreResultsButton9ec6b1ffe41e480a902f3a2d9e621283") !== undefined && document.getElementById("moreResultsButton9ec6b1ffe41e480a902f3a2d9e621283") !== null) {
+                        document.getElementById("moreResultsButton9ec6b1ffe41e480a902f3a2d9e621283").style.visibility = "hidden";
+                    }
+                    else {
+                        document.getElementById("moreResultsButton").style.visibility = "hidden";
+                    }
+                }
+                if (numberElementsToAsk != -1) {
+                    vars_9ec6b1ffe41e480a902f3a2d9e621283.currentOffset += numberElementsToAsk;
+                    }
+                }
+            });
+        }
+
+        function getCookie_9ec6b1ffe41e480a902f3a2d9e621283(cname) {
+            var name = cname + "=";
+            var decodedCookie = decodeURIComponent(document.cookie);
+            var ca = decodedCookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+        function SaveSliderItemNodeId_9ec6b1ffe41e480a902f3a2d9e621283() {
+            if (false) {
+                vars_9ec6b1ffe41e480a902f3a2d9e621283.sliderItemIds.push("");
+            }
+            $("#slider9ec6b1ffe41e480a902f3a2d9e621283").children().each(function () {
+                const aEls = this.getElementsByTagName('a')
+                if (aEls.length) {
+                    const aEl = aEls[0]
+                    if (aEl.id) {
+                        vars_9ec6b1ffe41e480a902f3a2d9e621283.sliderItemIds.push(aEl.id);
+                    }
+                }
+            });
+        }
+
+        var vars_9ec6b1ffe41e480a902f3a2d9e621283 =
+        {
+            currentSliderItem: null,
+            currentOffset: 0,
+            sliderItemIds: [],
+            containsSubFolder: false,
+            showMore: false,
+            paginationNumberItem: 0,
+            ShowChildren: false,
+            flickityDiv: "slider9ec6b1ffe41e480a902f3a2d9e621283",
+            flkty: null
+        };
+
+
+        $(document).ready(function () {
+            SaveSliderItemNodeId_9ec6b1ffe41e480a902f3a2d9e621283();
+            var elem = document.getElementById(vars_9ec6b1ffe41e480a902f3a2d9e621283.flickityDiv);
+
+            var nbElem = $(elem).find(".subnav-item").length;
+            
+            if (elem !== null && nbElem > 2) {
+                vars_9ec6b1ffe41e480a902f3a2d9e621283.flkty = new Flickity(elem, {
+                    cellAlign: "center",
+                    freeScroll: true,
+                    contain: true,
+                    draggable: true,
+                    watchCSS: true
+                });
+            }
+
+            if (vars_9ec6b1ffe41e480a902f3a2d9e621283.containsSubFolder && vars_9ec6b1ffe41e480a902f3a2d9e621283.ShowChildren) {
+                SetCurrentSliderItem_9ec6b1ffe41e480a902f3a2d9e621283(vars_9ec6b1ffe41e480a902f3a2d9e621283.sliderItemIds[0]);
+        }
+        else if (vars_9ec6b1ffe41e480a902f3a2d9e621283.ShowChildren) {
+            vars_9ec6b1ffe41e480a902f3a2d9e621283.currentSliderItem = 3402;
+
+            LoadElements_9ec6b1ffe41e480a902f3a2d9e621283();
+            }
+        });
+
+        function LoadMore() {
+            LoadElements_9ec6b1ffe41e480a902f3a2d9e621283();
+        }
+
+
+    </script>
+
+
+
+
+        
+          <section>
+            <div class="grid-container article">
+              <div class="grid-x grid-margin-x">
+                <div class="cell small-10 small-offset-1 ">
+                  
+
+
+<script>
+    var allflights = null;
+
+    const formatString = (template, ...args) => {
+        return template.replace(/{([0-9]+)}/g, function (match, index) {
+            return typeof args[index] === 'undefined' ? match : args[index];
+        });
+    }
+
+    $(document).ready(function () {
+        loadFlights(20);
+
+        setInterval(
+            function () {
+                var currentNb = $("#flightsList tr").length;
+                loadFlights(currentNb);
+                //console.log(' >> window.AirportAI >> ', window.AirportAI)
+                if (window.AirportAI && window.AirportAI.renderPlugins) {
+                    window.AirportAI.renderPlugins();
+                }
+            },
+            2 * 60 * 1000
+        );
+    });
+        
+    function loadFlights(nb) {
+        var alldatas = {};
+        var datas = {};
+        datas["Type"] = 'DEPARTURE';
+        datas["City"] = GetURLParameter("city");
+        datas["FlightNumber"] = GetURLParameter("number");
+        datas["Date"] = GetURLParameter("date");
+        datas["Hour"] = GetURLParameter("hour");
+        datas["Airline"] = GetURLParameter("airline");
+        datas["Culture"] = 'en-GB';
+        datas["Search"] = GetURLParameter("search");
+        alldatas.datas = JSON.stringify(datas);
+
+        // Manage new version of the HomePage
+        var urlToCall = '';
+        if (datas["Search"] !== undefined && datas["Search"].length > 0) {
+
+            urlToCall = '/api/v1/data/searchFAC';
+        }
+        else { 
+            urlToCall = '/api/v1/data/flights'
+        }
+
+        // Call dedicated method
+        $.ajax({
+            url: urlToCall,
+            context: document.body,
+            contentType: 'application/json',
+            dataType: 'json',
+            method: 'POST',
+            data: JSON.stringify(alldatas),
+            success: function (data) {
+                if (!data)
+                    return;
+                allflights = data;
+                $(".moreflights").show();
+                displayFlights(nb);
+                if (!allflights || allflights.length <= 20) {
+                    $(".moreflights").hide();
+                }
+            }
+        });
+    }
+
+    function displayFlights(nb) {
+        var flightsList = $("#flightsList");
+        flightsList.empty();
+        $(".infovol-mention-update").empty();
+        if (allflights && allflights.length > 0) {
+            $.each(allflights.slice(0, nb), function (index, flight) {
+                if (flight == null || flight == undefined)
+                    return;
+                var id = flight.FlightAoId;
+                if (index == 0) {
+                    var last = formatString("Last update on {0} at {1}", flight.LastKenticoUpdate.split(' ')[0], flight.LastKenticoUpdate.split(' ')[1]);
+                    $(".infovol-mention-update").append(last);
+                }
+                flightsList.append('<tr class="table-tr-flights" data-href="' + ((flight.Type === "DEPARTURE") ? "/en/Site/Passagers/Vols/Informations/Departs/Info-vol-detaillee" : "/en/Site/Passagers/Vols/Informations/Arrivees/Info-vol-detaillee") + '?id=' + id + '">' +
+                    '<td><span>' + ((flight.Type === "DEPARTURE") ? flight.DepartureScheduledTime : flight.ArrivalScheduledTime) + '</span><br /><span class="hide-for-large ' + ((flight.IsLate) ? 'infovol-delayed' : '') + '" aria-hidden="true">' + ((flight.Type === "DEPARTURE") ? flight.DepartureExpectedTime : flight.ArrivalExpectedTime) + '</span></td>' +
+                    '<td class="show-for-large '+((flight.IsLate) ? "infovol-delayed" : '')+'">' + ((flight.Type === "DEPARTURE") ? flight.DepartureExpectedTime : flight.ArrivalExpectedTime) + '</td>' +
+                    '<td class="show-for-medium"><span>' + ((flight.Type === "DEPARTURE") ? flight.Destination : flight.Departure) + '</span>' +
+                    ((flight.ViaShort != '') ? '<span class="infovol-small"> VIA ' + flight.ViaShort + '</span>' : '') +
+                    '</td>' +
+                    '<td class="show-for-large">' + flight.Airline + '</td>' +
+                    '<td class="show-for-medium">' + flight.Name + '</td>' +
+                    '<td class="show-for-small-only"><span>' + ((flight.Type === "DEPARTURE") ? flight.Destination : flight.Departure)  +'</span>' + '</br>'+  '<span class="flightName">' +flight.Name + '</span>' + '</td>' +
+                    '<td class="infovol-' + flight.StatusClass + '">' + flight.Status + '</td>' +
+                    '<td class="show-for-large">' + ((flight.Delay > 0) ? "<span>" + zeroPad(flight.Delay, 4).substr(0, 2) + 'h' + zeroPad(flight.Delay, 4).substr(2) + "</span>" : '') + '</td>' +
+                    '<td class="show-for-medium"><a aria-label="Voir les détails du vol" href="' + ((flight.Type === "DEPARTURE") ? "/en/Site/Passagers/Vols/Informations/Departs/Info-vol-detaillee" : "/en/Site/Passagers/Vols/Informations/Arrivees/Info-vol-detaillee") + '?id=' + id + '"><span aria-hidden class="fas fa-eye flight-details-action" alt="See flight details"></span></a></td>' +
+                    '<td><div class="airportAI-notificationsPlugin" flightType="' + flight.Type + '" flightCode="' + flight.Name + '" flightDate="' + flight.DepartureScheduledDate.split(".").join("-") + '" pluginSingle="FALSE" referral=DEPARTURES_PAGE></div></td>' + 
+                    '</tr>');
+            });
+            window.initDataHref();
+        }
+        else {
+            $('th.selecteddate').addClass("hide");
+            $('th.no-result').removeClass("hide");
+        }
+
+        if (window.AirportAI) {
+            window.AirportAI.renderPlugins();
+        }
+    }
+
+    function zeroPad(num, places) {
+        var zero = places - num.toString().length + 1;
+        return Array(+(zero > 0 && zero)).join("0") + num;
+    }
+
+    function showMore() {
+        var oldnb = $("#flightsList tr").length;
+        if (!allflights || allflights.length < oldnb + 20) {
+            $(".moreflights").hide();
+        }
+        displayFlights(oldnb + 20);
+    }
+
+    function GetURLParameter(elem) {
+        var sPageURL = window.location.search.substring(1);
+        var sURLVariables = sPageURL.split('&');
+        for (var i = 0; i < sURLVariables.length; i++) {
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == elem) {
+                return decodeURIComponent(sParameterName[1]);
+            }
+        }
+    }
+
+</script>
+
+<div class="infovol-mention-w">
+    <p class="infovol-mention-title"><strong>Flights departing :</strong> Today</p>
+    <p class="infovol-mention-update"></p>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th class="show-for-large">Expected</th>
+            <th class="show-for-medium">Destination</th>
+            <th class="show-for-large">Airline</th>
+            <th class="show-for-small-only">Destination</br>Flight nr.</th>
+            <th class="show-for-medium">Flight nr.</th>
+            <th class="">Status</th>
+            <th class="show-for-large">Delay</th>
+            <th class="show-for-medium">Details</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th class="thead-infos selecteddate" colspan="8">30.04.2025</th>
+            <th class="thead-infos no-result hide" colspan="8">
+                <div class="text-center">No results found, please expand your search and try again.</div>
+            </th>
+        </tr>
+    </thead>
+    <tbody id="flightsList">
+    </tbody>
+</table>
+
+<div class="table-tools">
+    <a id="p_lt_ctl07_pageplaceholder_p_lt_ctl00_FlightsList_MoreFlights" class="primary button moreflights" onclick="javascript:showMore()" title="Afficher plus de vols">Show more flights</a>
+</div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section>
+            <div class="grid-container article">
+              <div class="grid-x grid-margin-x">
+                <div class="cell small-10 small-offset-1 ">
+                  <h3>Additional information</h3>
+
+<p>about today&#39;s flights (delays, cancelled flights, etc.) also on your <strong>smartphone</strong>&nbsp;/&nbsp;<strong>tablet</strong> with our&nbsp;<a href="/en/Site/Passagers/Preparation-voyage/GVApp" target="_self">free application GVApp</a>.</p>
+
+<p><strong>&quot;Delay&quot; Column:</strong>&nbsp;any information shown in the &quot;Delay&quot; column is expressed in minutes (or possibly hours/minutes). It is the estimated flight delay that should be added to the scheduled arrival or departure time.</p>
+
+<p>The flight details published are those that appear on the monitors in the terminal. They are provided for information purposes. Given the complex nature of the information chain, Genève Aéroport&nbsp;cannot be held responsible for any errors when items of information are distributed or for any delay in updating them. Thank you for your understanding.</p>
+<div id="p_lt_ctl07_pageplaceholder_p_lt_ctl01_ContentBlockViewer_content"><h3>Main rules for the airport site area</h3>
+
+<p>The airport is a public space in which many people come and go. People&#39;s different habits, stress and fatigue sometimes find their expression in forms of frustration and inappropriate behaviour.</p>
+
+<p>In order to make sure that the hub remains a pleasant place to be, Genève Aéroport addresses the <a href="/en/Downloads/Passagers/Regles-Geneve-Aeroport_FR-EN.pdf" target="_blank">following few rules</a> to both passengers and staff working at the airport.</p>
+
+<p>Please apply them both inside the building as well as within its exterior perimeter.&nbsp;</p>
+</div>
+                </div>
+              </div>
+            </div>
+          </section>
+                <section>
+                   
+
+<section>
+    <div class="grid-container">
+
+        
+    </div>
+</section>
+
+
+           </section>
+  </article>
+
+</main>
+    
+<div class="airportAI-chatPlugin"></div>
+<footer class="footer" role="contentinfo">
+    <div class="grid-container">
+        <div class="footer-top">
+            <img src="/images/Footer/logo_gva_transparent.aspx" width="20%" alt="Genève Aéroport logo">
+        </div>
+        <div class="footer-bottom">
+            <div class="grid-x">
+                <div class="cell large-5 footer-cell footer-bottom-app">
+                    <p class="footer-title">Free App</p>
+                    <p class="footer-desc">The airport in your pocket! Boarding pass scanning, travel assistant, flight sharing, parking availability, interactive map, etc.<p>
+                    <ul class="menu vertical footer-bottom-app-menu">
+                      <li>
+                        <a href="https://market.android.com/details?id=com.zapek.android.gvamobile" target="_blank">
+                        <img title="Google Play" alt="Google Play" src="/getmedia/2e7306f4-e7a6-4061-b598-44eccd316a73/Google_Play_Store_en?width=92&height=27">
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://apps.apple.com/fr/app/geneve-aeroport-gva/id502471072" target="_blank">
+                        <img title="App Store" alt="App Store" src="/getmedia/da561624-0398-46db-852c-4afbe6cbf1b3/App_Store_EN?width=92&height=27">
+                        </a>
+                      </li>
+                    </ul>
+                </div>
+                <div class="cell footer-cell medium-6 large-4">
+                    <p class="footer-title">Links</p>
+                    
+        <ul class="no-bullet">
+    
+        <li>
+            <a class="gtm-footer" href="/Site/Passagers/Contacts">
+                Contacts
+            </a>
+        </li>
+    
+        <li>
+            <a class="gtm-footer" href="/Site/Passagers/Vols/Destinations-depart-Geneve">
+                Destinations from Geneva
+            </a>
+        </li>
+    
+        <li>
+            <a class="gtm-footer" href="/Site/Outils/Plan-du-site">
+                Site map
+            </a>
+        </li>
+    
+        <li>
+            <a class="gtm-footer" href="/Site/Passagers/Shopping/Services/Business-multimedia/free-wifi-gva">
+                Free WiFi GVA
+            </a>
+        </li>
+    
+        <li>
+            <a class="gtm-footer" href="/Site/Passagers/Questions-Reponses-FAQ">
+                FAQ
+            </a>
+        </li>
+    
+        <li>
+            <a class="gtm-footer" href="/Site/Passagers/Contacts/Medias-sociaux">
+                Community
+            </a>
+        </li>
+    
+        </ul>
+    
+
+                </div>
+                <div class="cell footer-cell medium-6 large-3">
+                    <p class="footer-title">
+                        Genève Aéroport
+                    </p>
+                    <p>
+                      Airport Road 21<BR>P.O. Box 100<BR>CH - 1215 Geneva 15
+                    </p>
+                    <p>
+                      &nbsp;
+                      <br>
+                      +41 (0) 848 19 20 20<br/>
+0.08 CHF/min. from the Swiss fixed network
+                      <br>
+                    </p>
+                </div>
+                <div class="cell footer-cell footer-cell--narrow footer-cell--social medium-12 large-6">
+                    <span>Follow us</span>
+                    <ul class="menu simple follownav">
+                        <li><a class="facebook gtm-footer" target="_blank" href="http://www.facebook.com/geneveaeroport"><i class="fab fa-facebook"></i></a></li>
+                        <li><a class="twitter gtm-footer" target="_blank" href="https://twitter.com/GeneveAeroport"><i class="fab fa-twitter"></i></a></li>
+                        <li><a class="instagram gtm-footer" target="_blank" href="https://instagram.com/geneveaeroport"><i class="fab fa-instagram"></i></a></li>
+                        <li><a class="youtube gtm-footer" target="_blank" href="http://www.youtube.com/GeneveAeroport"><i class="fab fa-youtube"></i></a></li>
+                        <li><a class="linkedin-in gtm-footer" target="_blank" href="https://www.linkedin.com/company/geneveaeroport/"><i class="fab fa-linkedin-in"></i></a></li>
+                    </ul>
+                </div>
+                
+
+<div class="cell footer-cell footer-cell--narrow medium-12 large-6">
+    <div class="grid-container full">
+        <div class="grid-x footer-newsletter">
+            <div class="small-4 cell">
+                <label for="p_lt_ctl10_NewsletterSubscriptionFooter_emailNewsletterInput" class="middle">Newsletter subscription</label>
+            </div>
+            <div class="small-8 cell">
+                <div class="input-group form--validate">
+                    <input name="p$lt$ctl10$NewsletterSubscriptionFooter$emailNewsletterInput" type="text" id="p_lt_ctl10_NewsletterSubscriptionFooter_emailNewsletterInput" class="mandatory input-group-field" placeholder="Your email" aria-label="Your email" />
+                        
+                    <div class="input-group-button">
+                        <a id="p_lt_ctl10_NewsletterSubscriptionFooter_submitButton" class="button button--step primary submit gtm-footer" type="submit" value="Register" href="javascript:__doPostBack(&#39;p$lt$ctl10$NewsletterSubscriptionFooter$submitButton&#39;,&#39;&#39;)">Subscribe</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                <div class="cell footer-cell footer--cell-noborder footer-cell--narrow footer-bottom small-12 medium-12 large-12">
+                    <p class="footer-legal no-margin">Copyright © Genève Aéroport. All rights reserved</p>
+					<p class="footer-legal no-margin"><a class="gtm-footer" href="/en/Site/Outils/CGU">Terms of use</a></p>   
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+  
+
+<script defer src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/app.js"></script>
+<script defer src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/WideGva.js"></script>
+<script defer src="/CMSPages/GetResource.ashx?scriptfile=/Gva/js/raven.min.js"></script>
+<script>
+
+$(document).ready(function(){
+  Raven.config("https://5595e537c77b4768b58733a45b3c7e80@sentry.io/1261377",{
+    ignoreUrls: [/graph\.facebook\.com/i, /extensions\//i, /^chrome:\/\//i, /^chrome-extension:\/\//i, /app-script\.monsido\.com/i, /www\.googletagmanager\.com/i, /cdn\.cookielaw\.org/i, /external\.airport\.ai/i, /mapserver\.visioglobe\.com/i]
+  }).install();
+   $("body").addClass("darkblue");
+  if ($("li.mainmenu-section.mainmenu-section--iscurrent").length == 0)
+  {
+    $($("li.mainmenu-section")[0]).addClass("mainmenu-section--iscurrent").addClass("is-active");
+    $($("li.mainmenu-section:first-child ul")[0]).addClass("mainmenu-section-submenu--iscurrent").addClass("mainmenu-section-submenu--isvisible");
+  }
+    var lang= 'en';
+
+    (function(w, d, id) {
+        var c= 'bc76ef96-75d8-4a8b-b65b-858807124866', u= 'https://external.airport.ai/', l= lang;
+        if(d.getElementById(id)) { return; }
+        var js= d.createElement('script'); js.id= id; js.type= 'text/javascript'; js.async= true; js.src= u+'js/sdk/web.js';
+        var scr= d.getElementsByTagName('script')[0];
+        scr.parentNode.insertBefore(js, scr);
+        w.AirportAI_asyncInit= function() { w.AirportAI.init({ clientId: c, url: u, language: l }); };
+    })(window, document, 'airportAI-jssdk');
+  
+    window.AirportAI_settings= {
+      'language': lang,
+      'airportCode': 'GVA'
+    };
+}); 
+</script>
+
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Site/Passagers/Vols/Informations/Departs","DocumentCultureCode":"en-GB","UrlReferrer":""}')
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var callBackFrameUrl='/WebResource.axd?d=beToSAE3vdsL1QUQUxjWdaTLerXssAiim-rChbs4eI-43kzvU7uo9deIIYeKMV6iYrOZZ5usnQotEcigSnS-qQizvx3x4AsCF836pbiQANh085fQb6tg1EBpPf5UQlLp0&t=638628279619783110';
+WebForm_InitCallback();
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>
